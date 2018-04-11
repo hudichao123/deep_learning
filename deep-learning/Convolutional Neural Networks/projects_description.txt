@@ -1,0 +1,18 @@
+In this folder, there are three projects on convolutional neural network. 
+
+
+The first one Convolution model - Step by Step 
+is about building up a convolutional neural network from scratch using numpy.
+Both forward propagation and backward propagation are implemented in this module.
+
+
+The second one Convolution model - Application 
+is about building up, training a conv net using tensorflow and using the trained model
+for image classification.
+
+
+The third one Residual Networks
+is about building up even deeper convnets composed of multiple residual blocks. This is done 
+under the high level python framework --Keras.
+
+

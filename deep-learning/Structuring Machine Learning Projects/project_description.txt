@@ -1,0 +1,18 @@
+This is the third part of the deep learning series.
+
+This part is special because there are no projects, instead I learned a lot of practical skills and techniques on how to address different problems
+during a real-world machine learning projects.
+
+There are two different scenarios given. 
+The first is that assuming I am a machine learning engineer and 
+am asked to help residents in the city of Peacetopia build a bird recognition system through machine learning.
+Given this scenario, I was asked to make decisions on how to divide the dataset into training, test and cross-validation 
+set to improve the performance of the algorithm, and if a new species of bird appears, how to do well on detecting this
+species that doesn't exit in the current system.
+
+The second scenario is that assuming I am a self-driving-car engineer.
+How can I leverage the limited number of data (images taken by the cameras of cars)
+to improve the performance of my algorithm?
+How and where to apply transfer learning and end-to-end deep learning in this imaginary scenario?
+And so on.
+  

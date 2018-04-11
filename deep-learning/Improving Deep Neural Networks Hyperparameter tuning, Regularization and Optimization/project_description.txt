@@ -1,0 +1,4 @@
+This is the second part of the deep learning series and is focused on techniques that help improve the performance of the Neural network.
+
+In this part, I implemented different kinds of initialization algorithms (including Xavier initialization),
+different kinds of optimization methods (such as momentum and RMSprop), gradient checking and regularization.

@@ -1,0 +1,6 @@
+This is the last part of the deep learning series.
+This part is about sequence models and natural language.
+There are lots of projects in this part, some of them are about implementing LSTM and GRU models,
+some are about using pretrained models to generate music, dictionaries, articles and so on.
+
+ 

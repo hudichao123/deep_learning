@@ -1,0 +1,4 @@
+This is the first set of projects in this deep learning series.
+
+In this folder, I implemented a shallow neural network(with only a logistic regression layer as the hidden layer),
+a deeper neural network and used the trained NN for data classification.
